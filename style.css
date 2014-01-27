@@ -1,0 +1,28 @@
+body{
+	margin: 2em;
+	font-family: serif;
+	width: 50em;
+}
+h1{
+	font-family: 'Ledger', serif;
+	font-weight: bold;
+}
+h3{
+	font-family: 'Ledger', serif;
+	font-weight: bold;
+}
+.header{
+	border-bottom: 3px solid #2B2B2B;
+}
+.content{
+	padding: .5em;
+}
+#indent{
+	display: inline-block;
+	padding-right: 2em;
+}
+#icons{
+	display: inline;
+	font-size: 1.5em;
+	letter-spacing: .25em;
+}
